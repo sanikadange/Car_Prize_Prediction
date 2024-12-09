@@ -1,2 +1,2 @@
 # Car_Prize_Prediction
-The Car Price Prediction Project uses ML to estimate used car prices based on features like make, model, year, and mileage. With Python and Scikit-learn, it predicts prices accurately, aiding buyers and sellers alike.
+The **Car Price Prediction Project** uses machine learning to estimate the market value of used cars based on features like make, model, year, mileage, and fuel type. By preprocessing data, selecting key features, and training algorithms like Linear Regression or Random Forest, the model predicts prices accurately. It helps buyers and sellers make informed decisions. Tools like Python, Scikit-learn, and visualization libraries were used for implementation.
